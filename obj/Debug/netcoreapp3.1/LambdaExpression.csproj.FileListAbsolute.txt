@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.exe
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.deps.json
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.runtimeconfig.json
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.dll
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.pdb
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.AssemblyInfo.cs
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.sourcelink.json
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.dll
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.pdb
+C:\Users\Hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.genruntimeconfig.cache
